@@ -377,17 +377,17 @@ code {
   opacity: 0; }
 
 .navbar-redwood {
-  background: #fff;
+  background: #3DC9C4;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 0;
   min-height: 60px; }
   .navbar-redwood .nav {
-    color: #b8b8b8;
+    color: #fff;
     font-family: "Lato", sans-serif;
     font-size: 12px;
     overflow: hidden; }
   .navbar-redwood .nav a {
-    color: #b8b8b8;
+    color: #fff;
     letter-spacing: .1em;
     margin-left: 32px;
     padding: 20px 0;
@@ -399,7 +399,7 @@ code {
       bottom: -3px;
       width: 100%;
       height: 2px;
-      background: #b8b8b8;
+      background: #fff;
       content: '';
       transition: all 100ms ease;
       opacity: 0; }
@@ -409,16 +409,16 @@ code {
         opacity: 1;
         bottom: 0; }
   .navbar-redwood .nav .active a {
-    color: #3c3c3c;
+    color: #fff;
     font-weight: bold;
     position: relative; }
     .navbar-redwood .nav .active a:before {
       bottom: 0;
       height: 2px;
-      background: #3c3c3c;
+      background: #fff;
       opacity: 1; }
   .navbar-redwood .navbar-brand {
-    color: #3c3c3c;
+    color: #fff;
     font-weight: 900;
     font-size: 32px;
     height: 60px;
