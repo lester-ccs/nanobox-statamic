@@ -424,6 +424,7 @@ code {
     height: 60px;
     padding: 20px 15px;
     letter-spacing: -.05em; }
+    background-image: url('images/logo.png');
   .navbar-redwood .navbar-form {
     margin-top: 13px; }
   .navbar-redwood .search {
