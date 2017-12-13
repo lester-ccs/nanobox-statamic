@@ -48,6 +48,7 @@ web.main:
   writable_dirs:
     - statamic/bootstrap/cache
     - local/cache
+    - site/users
 
   # the path to a logfile you want streamed to the nanobox dashboard
   log_watch:
